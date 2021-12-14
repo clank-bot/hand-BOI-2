@@ -1,0 +1,15 @@
+#image{
+    width: 400px;
+    height: 75px;
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+
+#camera, #result{
+    height: 300px;
+    width: 300px;
+    border: black;
+    border-style: dashed;
+}
